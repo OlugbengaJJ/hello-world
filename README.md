@@ -1,2 +1,2 @@
 # hello-world
-My first web
+This code displays hello world
